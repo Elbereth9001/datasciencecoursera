@@ -1,2 +1,5 @@
 .Rproj*/
+*.html
 tmp/
+.Rproj.user
+.Rhistory
